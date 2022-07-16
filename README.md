@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nomad</h1>
 <h3 align="center">I am a developer and hetical hacker</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/175e23a470fecd16b7cfe966c2ebe9d6/522408b742bc1183-7c/s500x750/873aa7a40a5b14f5aca8435780d0d428197c2af6.gifv">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nom4dx&label=Profile%20views&color=0e75b6&style=flat" alt="nom4dx" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **OSCP, Linux fundamentals, programming courses**
 
-- 🤝 I’m looking for help with **SiralMC**
+- 🤝 I’m looking for help with **SirialMC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
