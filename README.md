@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nom4dx&label=Profile%20views&color=0e75b6&style=flat-square" alt="nom4dx" /> </p>
 
-- 🔭 I’m currently working on [AzureMC Network](https://www.azuremc.it)
+- 🔭 I’m currently working on [Horagon Network](https://discord.horagon.net)
 
 - 🌱 I’m currently learning **CEH, OSCP courses**
 
